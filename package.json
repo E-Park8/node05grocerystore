@@ -1,0 +1,26 @@
+{
+  "name": "node05grocerystore",
+  "version": "1.0.0",
+  "description": "// Grocery Store\r // Create a lib folder for your constructors\r // Create a constructor named product in its own file\r // Give it properties for name, quantity, and price\r // Give it a method called getName that returns the product name\r // Give it a method called getQuantity that returns the product quantity\r // Give it a method called getPrice that returns the product price\r // Create a constructor named food that inherits from product in its own file\r // Give it properties for expirationDate and foodGroup\r // Give it a method called getExpirationDate that returns the food expiration date\r // Give it a method called getFoodGroup that returns the food group\r // Create a constructor named beverage that inherits from product in its own file\r // Give it properties for fluidOZ and mainFlavor\r // Give it a method called getFluidOz that returns the beverage fluid oz\r // Give it a method called getMainFlavor that returns the beverage main flavor\r // Create separate testing files for each constructor\r // Write four tests for each constructor (edited)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/E-Park8/node05grocerystore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/E-Park8/node05grocerystore/issues"
+  },
+  "homepage": "https://github.com/E-Park8/node05grocerystore#readme",
+  "dependencies": {
+    "jest": "^26.4.0"
+  }
+}
