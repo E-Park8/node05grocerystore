@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/E-Park8/node05grocerystore#readme",
   "dependencies": {
+    "inquirer": "^7.3.3",
     "jest": "^26.4.0"
   }
 }
